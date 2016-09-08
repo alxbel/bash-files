@@ -5,7 +5,7 @@ alias fgrep='fgrep --color=auto'
 
 # 'Fuck' aliases
 alias fuckslack='kill -9 $(ps -ef | pgrep slack)'
-alias fuckandroid="kill -9 $(ps -ef | grep android-studio | awk '{print $2}')"
+alias fuckandroid='kill -9 $(ps -ef | grep android-studio | awk '\''{print $2}'\'')'
 
 alias grep='grep --colour=auto'
 alias kbuild='go build -o /tmp/kommunalka-server github.com/smbody/kommunalka-server'
