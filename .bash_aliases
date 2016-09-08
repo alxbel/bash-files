@@ -16,6 +16,6 @@ alias ll='ls -alF'
 alias ls='ls --color=auto'
 
 # Enable/disable monitor
-alias monitor='/home/bag/.alexbel_scripts/monitor.sh'
+alias monitor='/home/bag/.alxbel_scripts/monitor.sh'
 
 alias src='. ~/.bashrc'
