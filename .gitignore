@@ -1,5 +1,5 @@
 *
 !.gitignore
 !.bash_aliases
-!.alexbel_scripts/monitor.sh
+!.bag_scripts/monitor.sh
 !.mongorc.js
