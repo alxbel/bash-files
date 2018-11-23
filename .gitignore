@@ -1,5 +1,0 @@
-*
-!.gitignore
-!.bash_aliases
-!.bag_scripts/monitor.sh
-!.mongorc.js
