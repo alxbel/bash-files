@@ -3,6 +3,10 @@ alias edal='vim ~/.bash_aliases'
 alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
 
+# ActiveMQ
+alias amq='/opt/apache-activemq-5.15.8/bin/activemq start && tail -f /opt/apache-activemq-5.15.8/data/activemq.log'
+alias amqstop='/opt/apache-activemq-5.15.8/bin/activemq stop'
+
 # 'Fuck' aliases
 alias fuckslack='kill -9 $(ps -ef | pgrep slack)'
 
